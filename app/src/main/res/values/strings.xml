@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApolloGraphQlLearning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="book_now">Book Now</string>
+    <string name="oh_no">Oh no</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+</resources>
